@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiq fadhlul aziz</h1>
-<h3 align="center">🎓 Software Engineering Student 🚀 Currently building and learning new things</h3>
+<h3 align="center">🎓 Software Engineering Student
+  🚀 Currently building and learning new things</h3>
 
 - 🌱 I’m currently learning **GO,PHP,Laravel**
 
