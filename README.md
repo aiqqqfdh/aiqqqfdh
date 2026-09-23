@@ -48,11 +48,6 @@ A web-based system for students to submit and track school aspirations.
 
 **Tech:** PHP, MySQL, HTML, CSS
 
-### 💊 Pharmacy Inventory System
-A web application for managing incoming and outgoing pharmacy inventory.
-
-**Tech:** Laravel, MySQL
-
 ### 📋 Student Attendance System
 A simple web-based attendance system for managing classes and attendance records.
 
