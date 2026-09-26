@@ -41,19 +41,17 @@
 
 ## 📌 Featured Projects
 
-> More projects coming soon...
+### 🎓 UKK 2026 - Web Application
 
-### 🏫 School Aspiration System
-A web-based system for students to submit and track school aspirations.
+A web-based application developed as part of my **2026 Software Engineering Competency Examination (UKK)**.
 
-**Tech:** PHP, MySQL, HTML, CSS
+Built to practice web development and database integration using PHP and MySQL.
 
-### 📋 Student Attendance System
-A simple web-based attendance system for managing classes and attendance records.
+**Tech Stack:**
 
-**Tech:** PHP, MySQL, HTML, CSS
+`PHP` `MySQL` `HTML` `CSS`
 
----
+🔗 [View Repository](https://github.com/aiqqqfdh/ukk-2026)
 
 ## 🌱 Currently Learning
 
